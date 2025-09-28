@@ -9,8 +9,6 @@ author_profile: true
 
 <!-- 下面是静态的 Markdown 列表 -->
 
-# Publications
-
 - **2023**: [Title of Publication 1](#)
   - *Description of publication 1*
 
