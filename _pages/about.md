@@ -20,8 +20,8 @@ Data Science and Analytics, Gene Regulatory Network, Precision Medicine, Explain
 
 ### 💼 Work Experience
 
-- **Assistant Professor**, Southern University of Science and Technology (2025.02 – Present)
-- **Postdoctoral Fellow**, Center for Human Genetics, Clemson University (2021.08 – 2025.01)
+- 2025.02 – Present **Assistant Professor**, Southern University of Science and Technology 
+- 2021.08 – 2025.01**Postdoctoral Fellow**, Center for Human Genetics, Clemson University 
 
 ###  🏆**Academic Awards**
 
