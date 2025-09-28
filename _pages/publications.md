@@ -1,23 +1,23 @@
 ---
-layout: default
+layout: archive
 title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
 
+{% include base_path %}
+
+<!-- 显示作者头像和个人信息 -->
+{% include author-profile.html %}
+
+<!-- 下面是静态的 Markdown 列表 -->
 # Publications
 
-- **Paper Title 1**  
-  Published: 2022-01-01  
-  Venue: Journal 1  
-  Excerpt: This is a short description of Paper 1. More details to follow.
+- **2023**: [Title of Publication 1](#)
+  - *Description of publication 1*
 
-- **Paper Title 2**  
-  Published: 2021-05-01  
-  Venue: Journal 2  
-  Excerpt: This is a short description of Paper 2. More details to follow.
+- **2022**: [Title of Publication 2](#)
+  - *Description of publication 2*
 
-- **Paper Title 3**  
-  Published: 2020-08-15  
-  Venue: Journal 3  
-  Excerpt: This is a short description of Paper 3. More details to follow.
+- **2021**: [Title of Publication 3](#)
+  - *Description of publication 3*
