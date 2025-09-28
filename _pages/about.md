@@ -33,3 +33,6 @@ Data Science and Analytics, Gene Regulatory Network, Precision Medicine, Explain
 - Global Operations Optimization Challenge, 3rd Place, 2018
 - National University Students Mathematics Modeling Contest, First Prize, 2014
 
+### 📝Service
+
+- **Reviewer**: Nature Communications, Frontiers in genetics, GigaScience
