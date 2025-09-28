@@ -16,7 +16,7 @@ author_profile: true
 
   - for Ph.D. student Fengge Chang (since 2022).
 
-     Naqing (co-advised with Duren Zhana) worked with me on a project detecting disease-related cells. 
+     Fengge (co-advised with Duren Zhana) worked with me on a project detecting disease-related cells. 
 
 - **Small-group supervisor**, Clemson University
 
