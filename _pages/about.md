@@ -30,6 +30,6 @@ Data Science and Analytics, Gene Regulatory Network, Precision Medicine, Explain
 - National Scholarship, Beijing Normal University, 2014
 - Competition Scholarship, Beijing Normal University, 2014
 - First Prize Scholarship, Beijing Normal University, 2013–2015
-- Global Operations Optimization Challenge (GOC), 3rd Place, 2018
+- Global Operations Optimization Challenge, 3rd Place, 2018
 - National University Students Mathematics Modeling Contest, First Prize, 2014
 
