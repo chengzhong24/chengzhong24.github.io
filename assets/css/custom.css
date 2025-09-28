@@ -1,0 +1,7 @@
+/* 隐藏切换按钮（theme toggle） */
+#theme-toggle,
+.theme-toggle,
+.toggle-theme,
+header .theme-toggle {
+  display: none !important;
+}
