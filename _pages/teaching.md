@@ -8,8 +8,6 @@ author_profile: true
 {% include base_path %}
 
 <!-- 下面是静态的 Markdown 列表 -->
-# Teaching
-
 - **Research mentor**, Clemson University:
 
   - for Ph.D. student Naqing FNU (since 2021).
