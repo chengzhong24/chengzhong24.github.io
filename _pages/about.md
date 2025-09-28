@@ -1,15 +1,23 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title:
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+**Qiuyue Yuan** is an Assistant Professor at the School of Medicine, Southern University of Science and Technology, Shenzhen, China. She received her B.S. in Mathematics and Applied Mathematics from Beijing Normal University in 2016 and her Ph.D. in Operational Research and Cybernetics from the Academy of Mathematics and Systems Science, Chinese Academy of Sciences, in 2021. From 2021 to 2025, she was a Postdoctoral Fellow at the Center for Human Genetics, Clemson University, USA, focusing on gene regulatory networks in single-cell multi-omics data. Her research interests include data science, gene regulatory networks, precision medicine, and explainable artificial intelligence. She has published in leading journals such as *Nature Biotechnology*, *Genome Biology*, and *Nature Communications*.
 
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+### 🎓 Education
+
+- 2016.09 – 2021.06 Chinese Academy of Sciences, Ph.D., Operational Research and Cybernetics.
+- 2012.09 – 2016.07 Beijing Normal University, B.S., Mathematics and Applied Mathematics.  
+
+### 💼 Work Experience
+
+- **Assistant Professor**, Southern University of Science and Technology (2025.02 – Present)
+- **Postdoctoral Fellow**, Center for Human Genetics, Clemson University (2021.08 – 2025.01)
 
 A data-driven personal website
 ======
