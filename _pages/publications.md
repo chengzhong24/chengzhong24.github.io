@@ -1,7 +1,8 @@
 ---
-layout: page
+layout: default
 title: "Publications"
 permalink: /publications/
+author_profile: true
 ---
 
 # Publications
