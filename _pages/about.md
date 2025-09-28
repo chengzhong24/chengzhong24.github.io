@@ -20,8 +20,8 @@ Data Science and Analytics, Gene Regulatory Network, Precision Medicine, Explain
 
 ### 💼 Work Experience
 
-- 2025.02 – Present **Assistant Professor**, Southern University of Science and Technology 
-- 2021.08 – 2025.01**Postdoctoral Fellow**, Center for Human Genetics, Clemson University 
+- 2025.02 – Present  **Assistant Professor**, Southern University of Science and Technology 
+- 2021.08 – 2025.01  **Postdoctoral Fellow**, Center for Human Genetics, Clemson University 
 
 ###  🏆**Academic Awards**
 
@@ -30,7 +30,6 @@ Data Science and Analytics, Gene Regulatory Network, Precision Medicine, Explain
 - National Scholarship, Beijing Normal University, 2014
 - Competition Scholarship, Beijing Normal University, 2014
 - First Prize Scholarship, Beijing Normal University, 2013–2015
-
 - Global Operations Optimization Challenge (GOC), 3rd Place, 2018
 - National University Students Mathematics Modeling Contest, First Prize, 2014
 
